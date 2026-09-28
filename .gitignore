@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Local runtime
+.env
+.env.*
+*.log
+.lock
+
+# Data
+subscribers.json
+seen_tasks.txt
+*.sqlite3
+*.db
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# GitHub
+.github/
