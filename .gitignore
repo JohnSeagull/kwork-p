@@ -9,8 +9,9 @@ venv/
 # Local runtime
 .env
 .env.*
+!.env.example
 *.log
-.lock
+*.lock
 
 # Data
 subscribers.json
